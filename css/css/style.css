@@ -3,4 +3,19 @@
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#travel-travel {
+  background: black;
+  width: 129px;
+  height: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
